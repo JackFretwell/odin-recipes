@@ -1,0 +1,14 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    background-color: rgb(202, 30, 30);
+    color:aliceblue;
+}
+
+.recipe{
+    font-style: italic;
+}
+
+.main-list{
+    background-color: rgba(190, 14, 14, 0.568);
+}
