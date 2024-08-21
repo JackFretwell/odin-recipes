@@ -9,6 +9,11 @@ h1{
     font-style: italic;
 }
 
-.main-list{
-    background-color: rgba(190, 14, 14, 0.568);
+li{
+    font-style: italic;
+    background-color: rgb(255, 145, 145);
+    padding: 16px;
+    font-size: 24px;
+    border: solid rgb(0, 0, 0) 5px;
+    margin: 10px;
 }
